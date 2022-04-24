@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+
+.indexbody{
+    background-color: rgba(60, 73, 69, 0.397);
+
+}
+
+.indexbody{
+    color: rgb(107, 4, 167);
+}
+.headersize{
+    font-size: 40px;
+}
